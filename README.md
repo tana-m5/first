@@ -13,5 +13,5 @@ Hello my name is Tana and I'm learning to code.
 - list
 
 1. num list
-1. num list2
+1. num list1
 1. num list
